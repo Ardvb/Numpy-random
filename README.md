@@ -25,9 +25,9 @@
 
 This Jupyter notebook can be ran by clicking the following link: https://github.com/Ardvb/Numpy-random/blob/master/Numpy-random.ipynb
 It can be downloaded by clicking the download button on the dashboard view of this repository.
-The easiest way to view the notebook on your device is by installing [Anaconda]
+The easiest way to view the notebook on your device is by installing Anaconda: https://docs.anaconda.com/anaconda/install/
 
 
-To open the notebook, open any command line interface, make sure you are in the folder containing the Jupyter notebook, and type: "Jupyter notebook". Now a list of all files will be openened and you click the file called "Numpy-random.ipynb". Here the notebook can be viewed and edited.
+To open the notebook, open any command line interface, make sure you are in the folder containing the Jupyter notebook, and type: "Jupyter notebook". Now a list of all files will be displayed and you click the file called "Numpy-random.ipynb". Here the notebook can be viewed and edited.
 
 
