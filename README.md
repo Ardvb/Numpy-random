@@ -23,7 +23,7 @@
       
 ### How to run this Jupyter notebook:
 
-This Jupyter notebook can be ran by clicking the following link: https://github.com/Ardvb/Numpy-random/blob/master/Numpy-random.ipynb
+This Jupyter notebook can be ran by clicking the following link: https://github.com/Ardvb/Numpy-random/blob/master/Numpy-random.ipynb .
 It can be downloaded by clicking the download button on the dashboard view of this repository.
 The easiest way to view the notebook on your device is by installing Anaconda: https://docs.anaconda.com/anaconda/install/
 
