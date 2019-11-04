@@ -1,4 +1,4 @@
-# Exploring Numpy.random
+# Exploring Numpy.random package
 
 ![Numpyimg](https://user-images.githubusercontent.com/47186083/68139099-76952400-ff21-11e9-8c68-7b63f2f52266.jpeg)
 
